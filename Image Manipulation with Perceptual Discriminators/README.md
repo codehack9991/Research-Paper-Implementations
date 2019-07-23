@@ -104,6 +104,6 @@ Default PyTorch VGG network is used in the example scripts.
 
 </br>
 
-## Acknowledgements
+## Article cum Blog
 
-This work has been supported by the Ministry of Education and Science of the Russian Federation (grant 14.756.31.0001).
+Soon, I will be writing an article explaining in detaiil, about this paper.
