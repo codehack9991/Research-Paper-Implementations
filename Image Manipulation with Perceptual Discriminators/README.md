@@ -107,3 +107,6 @@ Default PyTorch VGG network is used in the example scripts.
 ## Article cum Blog
 
 Soon, I will be writing an article explaining in detaiil, about this paper.
+
+
+### In case of any difficulties, feel free to reach out to me, or post an issue. I will try to earnestly reply. 
